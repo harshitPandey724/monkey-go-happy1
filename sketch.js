@@ -18,7 +18,7 @@ function preload(){
   obstacleImage = loadImage("obstacle.png");
   backgroundImage = loadImage("forest.jpg");
   appleImage = loadImage("apple.png");
-  gameoverImage = loadImage("gameover.jpg")
+  
  
 }
 
